@@ -7,4 +7,5 @@ Clasificador de imágenes
   2. Intentar combinar con la camara.  
 - Tania 
   1. Probar con otros clasificadores  
-- Pamela
+- Pamela  
+  1. Planear y recortar el pasaporte
