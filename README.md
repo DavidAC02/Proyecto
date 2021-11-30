@@ -2,7 +2,7 @@
 Clasificador de imágenes
 ## To do:  
 - David  
-- Raul 
+- Raul  
   2. Intentar combinar con la camara.  
 - Tania 
   1. Probar con otros clasificadores  
