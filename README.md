@@ -1,5 +1,6 @@
 # Proyecto
 Clasificador de imágenes
+Este proyecto es una aplicación capaz de cargar imágenes específicas que contienen sellos de microorganismos. Es capaz de clasificar dichos sellos y mostrarlos al usuario junto con una pequeña reseña del microorganismo que contiene.
 ## Cuadernos:
 - Dataset: Se crea el dataset para guardarse como .pickle y ser cargado en otros cuadernos.
 - Recortar: Se muestra el funcionamiento de la función recortar. 
